@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: f62c54f11f389f2458ff7c03f3db9a18
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerPrefab: {instanceID: 0}
+  - enemyOnePrefab: {instanceID: 0}
+  - enemyTwoPrefab: {instanceID: 0}
+  - cloudPrefab: {instanceID: 0}
+  - gameOverText: {instanceID: 0}
+  - restartText: {instanceID: 0}
+  - powerupPrefab: {instanceID: 0}
+  - audioPlayer: {instanceID: 0}
+  - powerupSound: {fileID: 8300000, guid: 752ca85f206f14146942c3fcafbdd492, type: 3}
+  - powerdownSound: {fileID: 8300000, guid: 86237706879f3c44db594d2c5cb1f7b3, type: 3}
+  - livesText: {instanceID: 0}
+  - scoreText: {instanceID: 0}
+  - powerupText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
